@@ -1,0 +1,11 @@
+body {
+background: url("../images/images.jpg");
+background-size:     cover;                    
+background-repeat:   no-repeat;
+background-position: center center;
+
+}
+
+#syfyGifs {
+    padding: inherit;
+}
